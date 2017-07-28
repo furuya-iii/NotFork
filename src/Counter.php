@@ -9,7 +9,7 @@ class Counter
 
     public function count()
     {
-        aaa
+        aaabbb
     }
 
     public function getCount()

@@ -79,6 +79,7 @@ class NotForkTest extends \PHPUnit_Framework_TestCase
         $counter = new Counter();
         var_dump($counter->count());
 
+        
         var_dump($counter->count());
         var_dump($counter->count());
         var_dump($counter->count());
